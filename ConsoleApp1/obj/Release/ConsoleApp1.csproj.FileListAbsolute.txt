@@ -1,0 +1,16 @@
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\amalaver\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
